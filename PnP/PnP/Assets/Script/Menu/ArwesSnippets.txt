@@ -1,0 +1,14 @@
+<Arwes>
+  
+  <div style={{ display: 'inline-block', padding: '20px' }}>
+      <Frame
+          show={this.state.show}
+          animate={true}
+          level={1}
+          corners={4}
+          layer='primary'
+      >
+          
+      </Frame>
+  </div>
+</Arwes>

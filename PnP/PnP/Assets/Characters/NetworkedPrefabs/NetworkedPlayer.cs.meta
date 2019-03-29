@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 10b1e33cc794afc4cb30dc77334277e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerObject: {instanceID: 0}
+  - selectedPlayerPrefab: {instanceID: 0}
+  - characterAnim: {fileID: 95780344708731028, guid: e649221fb81753c409f69500a078207d,
+      type: 2}
+  - glove: {instanceID: 0}
+  - plunger: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
